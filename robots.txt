@@ -1,0 +1,11 @@
+# robots.txt para PintorPro
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://pintorpro.netlify.app/sitemap.xml
+
+# Crawl-delay (opcional)
+Crawl-delay: 10
